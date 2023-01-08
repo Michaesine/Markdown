@@ -87,9 +87,14 @@ Hier word ook het concept "Continuous-improvement" geïnventariseerd en eventuee
 
 # Bronnen
 https://www.youtube.com/watch?v=diuyvTtXj_w
+
 https://www.weolcan.eu/en/en-home/
+
 https://www.weolcan.eu/en/en-cloud-governance/
+
 https://governance.weolcan.eu/
+
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+
 https://aws.amazon.com/professional-services/CAF/
 
