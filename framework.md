@@ -8,7 +8,7 @@ De adoptie en migratie naar de Cloud is een stressvol en chaotisch traject als h
 In een CGF word onder meer beschreven hoe specifieke aspecten van een Cloud adoptie behandeld worden met betrekking tot CGF. Hier onder is te zien over welke aspecten dit gaat:
 
 <img src="./images/weolcan.png" alt="https://governance.weolcan.eu/"/>
-<br>
+<br></br>
 
 We gaan per onderwerp in klein detail beschrijven wat het precies betekend voor een organisatie.
 
@@ -82,17 +82,14 @@ Hier word ook het concept "Continuous-improvement" geïnventariseerd en eventuee
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<br></br>
+
+# Bronnen
+https://www.youtube.com/watch?v=diuyvTtXj_w
+https://www.weolcan.eu/en/en-home/
 https://www.weolcan.eu/en/en-cloud-governance/
 https://governance.weolcan.eu/
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+https://aws.amazon.com/professional-services/CAF/
+
