@@ -27,12 +27,19 @@ Het business traject in de GGF is bedoelt om de budgetten en de financiele kant 
 Tijdens het business traject van de adoptie worden er ook Proof of Concepts (PoC) uitgevoerd in een test omgeving. Het doel van de PoC's is om de daadwerkelijke haalbaarheid van het op-te-lossen probleem na te lopen. Ook worden de ta-maken rapportages, dashboards en monitoring aspecten hier bepaald.
 
 ## Organisation
-Tijdens de "Oganization" fase word er geïnventariseerd welke kennis al aanwezig is in de organisatie. Dit word gedaan door middel van Key Performance Indicators (KPI's). 
+Tijdens de "Oganization" fase word er geïnventariseerd welke kennis al aanwezig is in de organisatie. Dit word gedaan door middel van Key Performance Indicators (KPI's). Deze KPI's zijn bedoelt om kennis te inventariseren en te delen. 
+
+Na de KPI's inzichtelijk zijn is er mogelijk een noodzaak voor training van het personeel. De noodzaak hier voor word ook bepaald in dit traject. 
 
 
 ## Platform
+In deze fase worden de mogelijkheden en de tekortkomingen van het platform gelijk getrokken met de doelen en to-be van de organisatie. Ook worden de verantwoordelijkheden van de actoren hier in inzichtelijk gemaakt. (Ontwikkelaars, Cloud Architecten etc.) 
+
+De toekomstige rechtenstructuur (IAM, AD) word hier ook inzichtelijk gemaakt.
 
 ## Culture
+
+
 
 
 
